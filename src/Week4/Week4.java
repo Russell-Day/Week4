@@ -9,7 +9,7 @@ public class Week4 {
             System.out.println("Congratulations, you won! \nYou picked: " + y + "\nThe computer picked: " + z);
             return;
         }else if (x.equals("Loss")){
-            System.out.println("Try again, you lost to the computer! \nYou picked: " + y + "\nThe computer picked: " + z);
+            System.out.println("Try      again, you lost to the computer! \nYou picked: " + y + "\nThe computer picked: " + z);
             return;
         } else
             System.out.println("Wow! What are the chances? You tied with the computer. \nYou picked: " + y + "\nThe computer picked: " + z);
